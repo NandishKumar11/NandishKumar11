@@ -4,7 +4,6 @@ NandishKumar11/NandishKumar11 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!DOCTYPE html>
-</style>
 <body>
  <link rel="stylesheet" href="README.html">
  
